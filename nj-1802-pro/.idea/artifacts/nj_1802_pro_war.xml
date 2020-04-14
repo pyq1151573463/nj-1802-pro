@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nj-1802-pro:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>nj-1802-pro</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="nj-1802-pro-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="nj-1802-pro:war exploded" />
+    </root>
+  </artifact>
+</component>
